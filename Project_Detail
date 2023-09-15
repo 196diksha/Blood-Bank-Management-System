@@ -1,0 +1,9 @@
+Project Name : Blood Bank management System
+
+Technology : C#.net
+
+Description : Blood bank management System a Windows application that is designed to store, process, 
+             retrieve and analyse information concerned with the administrative and inventory management within a blood bank. 
+             Blood Bank Management System involves the Donor information  Donor information system deals with the organization of the donor data.
+              It contains multile forms like  Login ,logout form ,Add Donor , Delete Donor ,Search Donor.
+              It has a database connectivity with Sql server .
